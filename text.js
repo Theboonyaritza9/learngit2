@@ -15,3 +15,10 @@ function aa() {
     console.log("hi");
 }
 
+function ee12() {
+    console.log("hi");
+}
+
+function ff() {
+    console.log("hi");
+}
