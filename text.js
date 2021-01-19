@@ -6,14 +6,22 @@ var cc = () => {
     console.log('hi');
 }
 
-function dd() {
+function dd12() {
+    console.log("data")
     console.log("hi");
 }
 
-function ee() {
+function aa() {
     console.log("hi");
 }
 
 function gg() {
+    console.log("hi");
+}
+function ee12() {
+    console.log("hi");
+}
+
+function ff() {
     console.log("hi");
 }
