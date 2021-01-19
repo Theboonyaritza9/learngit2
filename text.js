@@ -6,7 +6,8 @@ var cc = () => {
     console.log('hi');
 }
 
-function dd() {
+function dd12() {
+    console.log("data")
     console.log("hi");
 }
 
