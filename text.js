@@ -15,7 +15,7 @@ function aa() {
     console.log("hi");
 }
 
-function gg2() {
+function gg3() {
     console.log("hi");
 }
 function ee122() {
