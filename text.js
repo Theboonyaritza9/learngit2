@@ -18,7 +18,12 @@ function aa() {
 function gg4() {
     console.log("hi");
 }
-function ee123() {
+
+function dd4() {
+    console.log("hi");
+}
+
+function eqw() {
     console.log("hi");
     console.log('new branch');
 }
