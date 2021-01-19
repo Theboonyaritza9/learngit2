@@ -23,5 +23,6 @@ function ee12() {
 }
 
 function ff() {
+    var i = 1+1
     console.log("hi");
 }
