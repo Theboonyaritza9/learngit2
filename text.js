@@ -25,3 +25,7 @@ function ee12() {
 function ff() {
     console.log("hi");
 }
+
+function hh() {
+    console.log("hi");
+}
