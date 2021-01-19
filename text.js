@@ -15,11 +15,12 @@ function aa() {
     console.log("hi");
 }
 
-function gg() {
+function gg2() {
     console.log("hi");
 }
-function ee12() {
+function ee122() {
     console.log("hi");
+    console.log('new branch');
 }
 
 
