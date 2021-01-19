@@ -9,3 +9,7 @@ var cc = () => {
 function dd() {
     console.log("hi");
 }
+
+function ee() {
+    console.log("hi");
+}
