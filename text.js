@@ -22,7 +22,4 @@ function ee12() {
     console.log("hi");
 }
 
-function ff() {
-    var i = 1+1
-    console.log("hi");
-}
+
