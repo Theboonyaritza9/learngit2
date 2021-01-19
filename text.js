@@ -13,3 +13,7 @@ function dd() {
 function ee() {
     console.log("hi");
 }
+
+function gg() {
+    console.log("hi");
+}
